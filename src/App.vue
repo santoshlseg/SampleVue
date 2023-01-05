@@ -1,7 +1,7 @@
 <template>
-  <!-- <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-  <HomeWorld data=" I am here" msg=" London "/>
+   <img alt="Vue logo" src="./assets/logo.png">
+   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/>  -->
+  <HomeWorld data=" I am here" msg=" Australia "/>
 </template>
 
 <script>
